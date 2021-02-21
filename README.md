@@ -1,1 +1,0 @@
-# Qwiklab-kubernete-workload
